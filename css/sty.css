@@ -1,0 +1,165 @@
+body {
+  margin: 0;
+  font-family: 'Merriweather', serif;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  color: #66BFBF;
+  line-height: 200%;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  position: relative;
+  bottom: 20px;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3, a{
+  color: #11999E;
+
+}
+
+.thetop {
+  /* background-color: #A66CFF; */
+  background-color: #EAF6F6;
+  position: relative;
+  margin-top: auto;
+  padding-top: 100px;
+}
+
+/*
+h1{
+  margin-top:  0;
+}
+.themiddle{
+
+  width:  200px;
+  height: 200px;
+margin: 0;
+position: absolute;
+left:200px;
+top:200px;
+
+}
+.thebottom{
+
+  width:200px;
+  height: 200px;
+  margin: 0;
+  position: absolute;
+
+} */
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.middle-container {
+  padding-bottom: 20px;
+}
+
+.profile {
+  position: relative;
+  top: 20px;
+}
+
+.skills {
+  position: relative;
+  top: 20px;
+}
+
+.mountain {
+  position: relative;
+  top: 4px;
+}
+
+.contact-me {
+  padding-top: 20px;
+}
+.skill-row{
+margin: 100px auto 100px auto;
+  width:50%;
+text-align: left;
+line-height: 2;
+}
+.web-development{
+  width:30%;
+  float: left;
+  margin-right: 50px;
+}
+.gif{
+  width:20%;
+  float: right;
+  margin-left: 50px;
+}
+.btn{
+
+  padding: 10px;
+  font-family: arial;
+  color: #ffffff;
+  font-size: 20px;
+  border-radius: 8px;
+  font-style: normal;
+
+text-decoration: inherit;
+  background-color: #2bc4ad;
+}
+.btn:hover{
+
+  background-color: #30e3cb;
+
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 20px;
+  margin: auto;
+  line-height: 2;
+}
+.contact-me{
+
+  padding: 20px;
+  line-height: 2;
+}
+.profile{
+  line-height: 2;
+}
+.footer-link{
+  color: #11999E;
+  text-decoration: inherit;
+  padding:20px;
+}
+.copy-write{
+  color:#EAF6F6;
+}
+.hrr{
+  border-style:  dotted none none none;
+  border-top-width: 15px;
+  width:10%;
+  padding:  20px;
+  color:#EAF6F6;
+}
+p{
+  padding-bottom:  30px;
+}
+.mail{
+   /* #11999E; */
+  position: relative;
+  top:7px;
+  margin-top: 10px;
+  height: 30px;
+  width:40px;
+}
